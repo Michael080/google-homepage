@@ -1,0 +1,13 @@
+.container {
+    /* display: flex; */
+    /* text-align: center; */
+    
+    text-align: center;
+    margin: 275px 0;
+}
+
+.googleLogo img {
+    /* flex-direction: column; */
+    /* margin: 0 auto; */
+    min-width: 400px;
+}
