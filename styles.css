@@ -1,3 +1,18 @@
+.contain {
+    display: flex;
+    /* align-items: right; */
+    justify-content: right;
+}
+
+nav {
+    /* justify-content: right; */
+    font-size: 25px;
+    margin-left: 1300px;
+    height: 35px;
+    width: 500px;
+    padding: 20px;
+}
+
 .container {
     /* display: flex; */
     /* text-align: center; */
