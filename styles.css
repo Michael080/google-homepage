@@ -11,3 +11,19 @@
     /* margin: 0 auto; */
     min-width: 400px;
 }
+
+.searchBox {
+    min-width: 400px;
+    margin: 35px;
+    /* padding-top: 20px; */
+}
+
+.textArea {
+    font-size: 30px;
+    padding: 5px;
+    height: 45px;
+    width: 750px;
+    border-color: rgba(153, 149, 149, 0.829);
+    border-radius: 45px;
+    outline: none;
+}
